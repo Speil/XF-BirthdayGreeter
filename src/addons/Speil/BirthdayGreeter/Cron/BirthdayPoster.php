@@ -1,6 +1,6 @@
 <?php
 
-namespace DeinName\BirthdayGreeter\Cron;
+namespace Speil\BirthdayGreeter\Cron;
 
 use XF\Entity\User;
 use XF\Service\Thread\Replier;
