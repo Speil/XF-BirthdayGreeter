@@ -1,11 +1,11 @@
 {
-  "legacy_addon_id": "",
-  "title": "BirthdayGreeter",
+  "legacy_addon_id": "Speil Birthday Greeter",
+  "title": "Speil Birthday Greeter",
   "description": "Automatically posts birthday greetings in a defined thread.",
   "version_id": 1000010,
   "version_string": "1.0.0",
-  "dev": "DeinName",
-  "dev_url": "https://example.com",
+  "dev": "Speil",
+  "dev_url": "https://www.speil86.de",
   "support_url": "",
   "require": {
     "XF": [2010070, "XenForo 2.1.0+"]
