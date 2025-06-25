@@ -1,6 +1,6 @@
 <?php
 
-namespace DeinName\BirthdayGreeter;
+namespace Speil\BirthdayGreeter;
 
 use XF\AddOn\AbstractSetup;
 use XF\AddOn\StepRunnerInstallTrait;
